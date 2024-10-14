@@ -1,0 +1,272 @@
+@font-face {
+    font-family: "Orenburg";
+    src: url(newfonts/Orenburg.woff);
+   
+    
+}
+body{
+   
+    margin: 0;
+   
+}
+.header{
+    background:#f5f5f5;
+    width: 100%;
+    height:140px;
+   position: fixed;
+   left: 0px;
+   top: 0px;
+    align-content: center;
+    font-family: "Montserrat", sans-serif;
+}
+.logo a{
+    color:RGB(66, 78, 79) ;
+    text-decoration-color: transparent;
+
+}
+.logo a:hover{
+    text-decoration-color: red;
+    text-underline-offset: 10px;
+     text-decoration-thickness:2px ;
+}
+.secondpart{
+    background-image: url(https://lexipens.com/img/new-devi.png);
+    width : 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+    font-family: "Orenburg";
+    
+}
+.thirdpart{
+    display: flex;
+    background-image: url(https://lexipens.com/img/about-img-new.png);
+    height: 750px;
+    background-repeat: no-repeat;
+}
+.textpart,.imagepart{
+    width: 100%;
+    height: 500px;
+
+
+}
+.division1{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+   
+}
+.division2{
+    width:100%;
+    height: 350px;
+    background-color:#f4f4f4;
+   text-align: center;
+   line-height: 10px;
+}
+.division3{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+}
+.fourthpart{
+    display: flex;
+}
+.division4{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+  background-color:#f4f4f4;  
+}
+.division5{
+    width:100%;
+    height: 350px;
+   
+   text-align: center;
+   line-height: 10px;
+}
+.division6{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+   background-color:#f4f4f4;
+}
+.fifthpart{
+    display: flex;
+}
+.division7{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+   
+}
+.division8{
+    width:100%;
+    height: 350px;
+    background-color:#f4f4f4; 
+   text-align: center;
+   line-height: 10px;
+}
+.division9{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+  
+}
+.sixthpart{
+    display: flex;
+}
+.division10{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+   
+}
+.division11{
+    width:100%;
+    height: 350px;
+    background-color:#f4f4f4; 
+   text-align: center;
+   line-height: 10px;
+}
+.division12{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+  
+}
+.seventhpart{
+    display: flex;
+}
+.division13{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+ 
+}
+.division14{
+    width:100%;
+    height: 350px;
+    background-color:#f4f4f4; 
+   text-align: center;
+   line-height: 10px;
+}
+.division15{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+  
+}
+.Eightthpart{
+    display: flex;
+}
+.division16{
+    width: 100%;
+    height: 350px;
+  text-align: center;
+  line-height: 10px;
+  background-color:#f4f4f4;
+}
+.division17{
+    width:100%;
+    height: 350px;
+     
+   text-align: center;
+   line-height: 10px;
+}
+.division18{
+    width: 100%;
+    height: 350px;
+   text-align: center;
+   line-height: 10px;
+   background-color:#f4f4f4;
+}
+.Ninethpart{
+    display: flex;
+}
+.footer{
+display: flex;
+background-color: #222222;
+
+}
+.column1{
+width: 100%;
+height: 450px;
+margin-top: 150px;
+margin-left: 60px;
+}
+.column2{
+width: 100%; 
+height: 450px;
+}
+.column3{
+    width: 100%;
+    height: 450px; 
+    margin-top: 150px;  
+  
+}
+.column3 a{
+    color: #fff;
+    font-size: 14px;
+    font-family: Hind, sans-serif;
+    text-decoration: none;
+    display: block;
+    line-height: 40PX;
+}
+.column4{
+    width: 100%; 
+    height: 450px;
+   margin-top: 200px;
+   margin-left: 50px;
+}
+.column4 a{
+    text-decoration: none;
+    display: block;
+    line-height: 40PX;
+    color: #fff;
+    font-size: 14px;
+}
+.column5{
+    width: 100%; 
+    height: 450px;
+    margin-top: 150px;
+}
+.column6{
+    width: 100%; 
+    height: 450px;
+}
+.column7{
+    width: 100%; 
+    height: 450px;
+}
+.linediv{
+    background-color: #222222;
+
+}
+.line{
+    width: 100%;
+    height: 0.1px;
+    background-color: RGB(121, 121, 121);
+    margin: 0;
+    border: 0px;
+    
+}
+.copyright{
+    width: 100%;
+    height: 50px;
+    background-color:#222222 ;
+    text-align: center;
+   margin-top: 0.5px;
+   align-content: center;
+}
+
